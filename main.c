@@ -164,7 +164,7 @@ int main() {
         printf("\nBanking Operations:\n");
         printf("1. Deposit\n");
         printf("2. Withdraw\n");
-        printf("3. Check Balance\n");
+        printf("3. Check kBalance\n");
         printf("4. View Transaction History\n");
         printf("5. Exit\n");
         printf("Enter your choice: ");
